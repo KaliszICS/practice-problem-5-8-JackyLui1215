@@ -1,6 +1,6 @@
 /**
 	* Lesson: Maps/HashMaps
-	*	Author: Mr. Kalisz
+	* Author: Mr. Kalisz
 	* Date Created: May 11, 2023
  	* Date Last Modified: May 11, 2023
 	*/
